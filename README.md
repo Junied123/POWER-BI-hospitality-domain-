@@ -13,9 +13,9 @@ Analyzed feedback to improve services (e.g., housekeeping and dining).
 ### Predictive Analytics:
 Used Python/R integration in Power BI for demand forecasting.
 Predicted occupancy rates to enhance staffing and inventory planning.
-###### Cost Optimization:
+## Cost Optimization:
 Highlighted areas of high operational costs for improvement.
-##### Automation:
+## Automation:
 Enabled scheduled data refresh and real-time analytics for up-to-date decision-making.
 ## Outcomes:
 Achieved a 15% increase in operational efficiency.
