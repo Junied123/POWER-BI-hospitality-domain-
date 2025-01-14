@@ -7,10 +7,10 @@ Performed data cleaning and transformation with Power Query.
 #### Dashboards and Reports:
 Created interactive dashboards for key metrics like occupancy rates, ADR, RevPAR, and customer satisfaction.
 Visualized booking trends, guest demographics, and seasonal patterns.
-##### Insights and Analysis:
+## Insights and Analysis:
 Identified peak and off-peak trends for targeted marketing and pricing strategies.
 Analyzed feedback to improve services (e.g., housekeeping and dining).
-###### Predictive Analytics:
+### Predictive Analytics:
 Used Python/R integration in Power BI for demand forecasting.
 Predicted occupancy rates to enhance staffing and inventory planning.
 ###### Cost Optimization:
